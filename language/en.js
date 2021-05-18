@@ -84,7 +84,7 @@ var Translations = {
    */
   ChapterSettings: [
     {
-      label: 'Intro &amp; Stats',
+      label: 'Intro',
       states: [
         {
           cardId: '3d578110',
@@ -93,7 +93,7 @@ var Translations = {
       ]
     },
     {
-      label: 'Demo',
+      label: 'Presentation &amp; Demo',
       states: [
         {
           cardId: 'd97be729',
@@ -102,7 +102,7 @@ var Translations = {
       ]
     },
     {
-      label: 'Close',
+      label: 'Q&amp;A',
       states: [
         {
           cardId: 'ee31e889',
